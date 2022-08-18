@@ -1,0 +1,1 @@
+frida -U -f 包名 -l tk.js --no-pause
